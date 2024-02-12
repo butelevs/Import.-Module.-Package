@@ -1,5 +1,4 @@
 main.py
-
 import datetime as dt
 
 from application.db.people import get_employees
